@@ -1,1 +1,2 @@
-VimCrypt~03!‡<`kïÏ–wx¬Ù92úsñS'Â a»GERÚRvº§‰hUßÿ¥ÖãÀl
+#!/bin/bash
+gcc $CFILE -E -o c
